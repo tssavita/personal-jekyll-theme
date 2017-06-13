@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The pass is like a cancelled cheque."
+  - text: "The past is like a cancelled cheque."
   - text: "Live in the present."
 
 me-img: "/img/jetpacktocat.png"
