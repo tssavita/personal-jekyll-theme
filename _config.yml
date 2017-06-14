@@ -131,12 +131,27 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    - image: ""
+      date: "June 2016 - April 2017"
+      description: "Master thesis student at SAP SE, Walldorf, Germany"
+    - image: ""
+      date: "December 2015 - February 2016"
+      description: "Research Assistant at Saarland University, Germany"
+    - image: ""
+      date: "July 2015 - October 2015"
+      description: "Summer Student Intern at Madynes, INRIA, France"
+    - image: "/img/timeline/spidertocat.png"
+      date: "October 2014 - May 2017"
+      description: "Dual Masters in Computer Science and Innovation and Entrepreneurship"
+    - image: "/img/timeline/baracktocat.jpg"
+      date: "July 2010 - July 2014"
+      description: "Bachelor of Technology in Computer Science and Engineering"
+    - image: ""
+      date: "July 2014 - September 2014"
+      description: "Summer Student Intern at Computer Security Centre, CERN, Geneva"
+    - image: ""
+      date: "May 2014 - August 2014"
+      description: "Google Summer of Code 2014 Intern"
 
 # First image of the Timeline
 
