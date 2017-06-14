@@ -137,7 +137,7 @@ events:
     - image: "/img/timeline/sulogo.png"
       date: "December 2015 - February 2016"
       description: "Research Assistant at Saarland University, Germany"
-    - image: "/img/timeline/inria_logo.png"
+    - image: "/img/timeline/inria_logo.jpg"
       date: "July 2015 - October 2015"
       description: "Summer Student Intern at Madynes, INRIA, France"
     - image: "/img/timeline/eit_logo.png"
