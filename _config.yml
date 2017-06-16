@@ -134,6 +134,9 @@ events:
     - image: "/img/timeline/sap_logo.png"
       date: "June 2016 - April 2017"
       description: "Master thesis student at SAP SE, Walldorf, Germany"
+    - image: "/img/timeline/wtm-logo.png"
+      date: "July 2016"
+      description: "Google Anita Borg Scholar 2016"
     - image: "/img/timeline/sulogo.png"
       date: "December 2015 - February 2016"
       description: "Research Assistant, Saarland University, Germany"
@@ -152,13 +155,14 @@ events:
     - image: "/img/timeline/erasmus_logo.png"
       date: "September 2013 - June 2014"
       description: "Erasmus Mundus Exchange Student at University of Trento, Italy"
-    - image: "/img/timeline/amrita_univ_logo.png"
-      date: "July 2010 - July 2014"
-      description: "Bachelor of Technology in Computer Science and Engineering, Amrita University, Kerala, India."
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/amrita_univ_logo.png"
+
+timelineevent:
+    - date: "July 2010 - July 2014"
+      description: "Bachelor of Technology in Computer Science and Engineering, Amrita University, Kerala, India"
 
 ###########
 # Contact #
