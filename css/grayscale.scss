@@ -99,7 +99,7 @@ a {
         }
     }
     .navbar-brand {
-        font-color: #fff;
+        color: #fff;
         font-weight: 700;
         &:focus {
             outline: none;
@@ -113,6 +113,7 @@ a {
     }
     .nav {
         font-weight: 500;
+        color:#fff;
         text-align: center;
         li {
             a {
@@ -126,6 +127,7 @@ a {
                 }
                 &:focus,
                 &:active {
+                    font-color: #fff;
                     outline: none;
                     background-color: rgba($font-color, 0.3);
                 }
@@ -142,6 +144,7 @@ a {
         }
     }
     @media(min-width:768px) {
+        font-size: 18px;
         padding: 20px 0;
         border-bottom: none;
         letter-spacing: 1px;
