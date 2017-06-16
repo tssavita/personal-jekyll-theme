@@ -134,7 +134,7 @@ events:
     - image: "/img/timeline/sap_logo.png"
       date: "June 2016 - April 2017"
       description: "Master thesis student at SAP SE, Walldorf, Germany"
-    - image: "/img/timeline/wtm-logo.png"
+    - image: "/img/timeline/wtm_logo.png"
       date: "July 2016"
       description: "Google Anita Borg Scholar 2016"
     - image: "/img/timeline/sulogo.png"
