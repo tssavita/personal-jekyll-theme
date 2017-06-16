@@ -111,6 +111,7 @@ a {
         }
     }
     .nav {
+        font-weight: 500;
         text-align: center;
         li {
             a {
@@ -124,7 +125,6 @@ a {
                 }
                 &:focus,
                 &:active {
-                    color: #fff;
                     outline: none;
                     background-color: rgba($font-color, 0.3);
                 }
@@ -178,7 +178,7 @@ a {
             font-size: 40px;
         }
         .intro-text {
-            font-size: 18px;
+            font-size: 16px;
             @if $navbar-text-shadow {
                 text-shadow: 1px 0 1px #000;
             }
