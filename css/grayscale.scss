@@ -91,7 +91,7 @@ a {
 
     .navbar-toggle {
         padding: 4px 6px;
-        font-size: 16px;
+        font-size: 18px;
         color: $navbar-color;
         &:focus,
         &:active {
@@ -124,8 +124,9 @@ a {
                 }
                 &:focus,
                 &:active {
+                    color: #fff;
                     outline: none;
-                      background-color: rgba($font-color, 0.3);
+                    background-color: rgba($font-color, 0.3);
                 }
             }
             &.active {
@@ -178,9 +179,9 @@ a {
         }
         .intro-text {
             font-size: 18px;
-            //@if $navbar-text-shadow {
+            @if $navbar-text-shadow {
                 text-shadow: 1px 0 1px #000;
-            //}
+            }
         }
     }
     @media(min-width:768px) {
