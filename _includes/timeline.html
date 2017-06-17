@@ -32,22 +32,19 @@
           </li>
         {% endfor %}
 
-        {% for tevent in site.timeline-event %}
-
         <li class="timeline-inverted">
           <div class="timeline-image">
             <img class="img-circle img-responsive" src="{{site.baseurl}}{{ site.timeline-img }}" alt="">
           </div>
           <div class="timeline-panel">
               <div class="timeline-heading">
-                  <h4>{{ tevent.date }}</h4>
+                  <h4>{{ timeline-date }}</h4>
               </div>
               <div class="timeline-body">
-                  {{ tevent.description | markdownify  }}
+                  <p>{{ timeline-description }}</p>
               </div>
           </div>
         </li>
-        {% endfor %}
       </ul>
     </div>
   </div>

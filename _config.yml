@@ -160,9 +160,8 @@ events:
 
 timeline-img: "/img/timeline/amrita_univ_logo.png"
 
-timeline-event:
-    - date: "July 2010 - July 2014"
-      description: "Bachelor of Technology in Computer Science and Engineering, Amrita University, Kerala, India"
+timeline-date: "July 2010 - July 2014"
+timeline-description: "Bachelor of Technology in Computer Science and Engineering, Amrita University, Kerala, India"
 
 ###########
 # Contact #
