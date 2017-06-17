@@ -20,6 +20,8 @@ Used requests and BeautifulSoup modules from Python to get the url and navigate 
 
 ### Completed: 
 
+<div style="text-align: left">
+
 1. Getting a URL using *requests* module of Python,
 2. Logging in using requests.get(),
 3. Iterate over the content of the response captured, in chunks,
@@ -32,6 +34,8 @@ Used requests and BeautifulSoup modules from Python to get the url and navigate 
 10. Look for a tag with the username.
 11. Use the User Agent module to emulate the behaviour of a browser. 
 12. Download submission with the submitted code.
+
+</div>
 
 ### References: 
 
