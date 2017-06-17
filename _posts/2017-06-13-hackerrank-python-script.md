@@ -16,7 +16,7 @@ Used requests and BeautifulSoup modules from Python to get the url and navigate 
 
 ### Completed: 
 
-<div style="text-align: left">
+<div class="align-left">
 <ol>
 <li> Getting a URL using *requests* module of Python,</li>
 <li> Logging in using requests.get(),</li>
