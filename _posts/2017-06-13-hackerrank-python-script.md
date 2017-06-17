@@ -18,18 +18,18 @@ Used requests and BeautifulSoup modules from Python to get the url and navigate 
 
 <div class="align-left">
 
-1. Getting a URL using *requests* module of Python,</li>
-2. Logging in using requests.get(),</li>
-3. Iterate over the content of the response captured, in chunks,</li>
-4. Using a file descriptor, write it to a file on the disk,</li>
-5. Use *BeautifulSoup()* to do *html.pars*ing over the file,</li>
-6. Using the returned bs object, find tags that satisfy the necessary condition (for example, a tag that contains a particular text),</li>
-7. Get values of specific attributes from the captured tag.</li>
-8. Construct a URL using the page you want to navigate to. </li>
-9. Open the *.html* page and iterative carry </li>
-10. Look for a tag with the username.</li>
-11. Use the User Agent module to emulate the behaviour of a browser.</li>
-12. Download submission with the submitted code.</li>
+1. Getting a URL using *requests* module of Python,
+2. Logging in using requests.get(),
+3. Iterate over the content of the response captured, in chunks,
+4. Using a file descriptor, write it to a file on the disk,
+5. Use *BeautifulSoup()* to do *html.pars*ing over the file,
+6. Using the returned bs object, find tags that satisfy the necessary condition (for example, a tag that contains a particular text),
+7. Get values of specific attributes from the captured tag,
+8. Construct a URL using the page you want to navigate to, 
+9. Open the *.html* page and iterative carry,
+10. Look for a tag with the username,
+11. Use the User Agent module to emulate the behaviour of a browser,
+12. Download submission with the submitted code.
 </div>
 
 ### References: 
