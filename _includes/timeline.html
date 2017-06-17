@@ -12,9 +12,9 @@
         {% for event in site.events %}
           {% assign loopindex = forloop.index | modulo: 2 %}
           {% capture class %}
-          {% if loopindex == 0 %}
-            timeline-inverted
-          {% endif %}
+<!--          {% if loopindex == 0 %}
+            timeline-inverted 
+            {% endif %}-->
           {% endcapture %}
 
           <li class="{{ class }}">
