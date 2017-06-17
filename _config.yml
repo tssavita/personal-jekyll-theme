@@ -155,13 +155,13 @@ events:
     - image: "/img/timeline/erasmus_logo.png"
       date: "September 2013 - June 2014"
       description: "Erasmus Mundus Exchange Student at University of Trento, Italy"
+    - image: "img/timeline/amrita_univ_logo.png"
+      date: "July 2010 - July 2014"
+      description: "Bachelor of Technology in Computer Science and Engineering, Amrita University, India"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/amrita_univ_logo.png"
-
-timeline-date: "July 2010 - July 2014"
-timeline-description: "Bachelor of Technology in Computer Science and Engineering, Amrita University, Kerala, India."
+timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
