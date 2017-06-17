@@ -148,7 +148,7 @@ events:
       description: "Dual Masters in Computer Science & Innovation and Entrepreneurship"
     - image: "/img/timeline/cern_logo.jpg"
       date: "July 2014 - September 2014"
-      description: "Student Intern, Computer Security Centre, CERN, Switzerland"
+      description: "Computer Security Student Intern, CERN, Switzerland"
     - image: "/img/timeline/gsoc_logo.png"
       date: "May 2014 - August 2014"
       description: "Google Summer of Code 2014 Intern"
@@ -161,7 +161,7 @@ events:
 timeline-img: "/img/timeline/amrita_univ_logo.png"
 
 timeline-date: "July 2010 - July 2014"
-timeline-description: "Bachelor of Technology in Computer Science and Engineering, Amrita University, Kerala, India"
+timeline-description: "Bachelor of Technology in Computer Science and Engineering, Amrita University, Kerala, India."
 
 ###########
 # Contact #
