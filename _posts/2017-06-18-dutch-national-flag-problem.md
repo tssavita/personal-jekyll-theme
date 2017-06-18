@@ -56,3 +56,7 @@ Some applications/variations of this problem are:
 * Shifting 0s to the end of the array.
 * Shifting even numbers to then end of the array. 
 * Given an array containing elements - 0, 1, and 2, rearrange the elements in such a way that all same elements occur together. 
+
+References: 
+
+[1]: [https://en.wikipedia.org/wiki/Dutch_national_flag_problem]
