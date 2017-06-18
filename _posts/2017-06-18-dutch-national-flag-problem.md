@@ -1,9 +1,9 @@
 ---
 layout: post
 section-type: post
-title: Title
-category: Category
-tags: [ 'tag1', 'tag2' ]
+title: The Dutch National Flag problem
+category: Technical, Data Structures & Algorithms
+tags: [ '', 'dutch national flag problem', 'quick sort', 'grouping', 'dijkstra' ]
 ---
 
 The Dutch National Flag Problem is a solution invented by the Dutch computer scientist Edsger W. Dijkstra. Consider the tricolored Dutch National Flag - . 
