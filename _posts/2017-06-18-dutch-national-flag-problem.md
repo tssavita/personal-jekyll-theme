@@ -30,7 +30,9 @@ Consider the following representation:
         swap(arr[low], arr[high]),
         decrement high.
 
-**For three groups of elements** (you can look at the picture representation ![above](https://github.com/tssavita/tssavita.github.io/img/_posts/three_elements.png)). The steps would be similar, except:
+![above](https://github.com/tssavita/tssavita.github.io/img/_posts/three_elements.png)
+
+**For three groups of elements** (you can look at the picture representation above). The steps would be similar, except:
 
 * We have an extra pointer - mid to keep track of the ending position of the second element in the array,
 * The ungrouped elements are now present from mid to high,
