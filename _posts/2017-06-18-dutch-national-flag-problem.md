@@ -14,7 +14,7 @@ The Dutch National Flag Problem is a solution invented by the Dutch computer sci
 
 Consider the following representation: 
 
-[[/img/\_posts/two_elements.png]]
+[[blob/master/img/\_posts/two_elements.png]]
 
 **For only two groups of elements** (you can look at the picture representation above), steps included in the algorithm are as follows. 
   
