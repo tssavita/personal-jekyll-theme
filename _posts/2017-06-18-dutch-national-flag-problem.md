@@ -6,7 +6,9 @@ category: Technical, Data Structures & Algorithms
 tags: [ '', 'dutch national flag problem', 'quick sort', 'grouping', 'dijkstra' ]
 ---
 
-The Dutch National Flag Problem is a solution invented by the Dutch computer scientist Edsger W. Dijkstra. Consider the tricolored Dutch National Flag - . 
+The Dutch National Flag Problem is a solution invented by the Dutch computer scientist Edsger W. Dijkstra. Consider the tricolored Dutch National Flag.
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAD1BMVEX///+uHCghRouqABAAOYWzO2ReAAABB0lEQVR4nO3QuRGAAAzAsPDsPzN9XFJAIU3g8xxs83XAD3lSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKe1FxsAwAAAAAAAAAAAAAAAAAAAMB7N9ucbJ6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Ul5Up6UJ+VJeVKelCflSXlSnpQn5Uk9Q6/I4nGDdNoAAAAASUVORK5CYII=)
 
 **Problem:** Given balls of the three colors on the flag, what is the best method of grouping them in a way so as to form the Dutch flag? 
 
