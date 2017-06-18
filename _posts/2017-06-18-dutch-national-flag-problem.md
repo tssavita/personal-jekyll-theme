@@ -59,4 +59,4 @@ Some applications/variations of this problem are:
 
 References: 
 
-[1]: [https://en.wikipedia.org/wiki/Dutch_national_flag_problem]
+1. <https://en.wikipedia.org/wiki/Dutch_national_flag_problem>
