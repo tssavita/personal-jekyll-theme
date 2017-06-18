@@ -14,12 +14,8 @@ The Dutch National Flag Problem is a solution invented by the Dutch computer sci
 
 Consider the following representation: 
 
-0 0 0 0 ? ? ? ? ? 1 1 1  
-        ^       ^  
-0       l       h     n  
-
-**For only two groups of elements**, steps included in the algorithm are as follows: 
-
+**For only two groups of elements** (you can look at the picture representation [above](/img/_posts/two_elements.png)). Steps included in the algorithm are as follows. 
+  
 * We start with low = 1 and high = n, where n is the number of elements in the array.
 * We consider that:
   * 0 to low are already elements of the first type, and, 
@@ -32,11 +28,7 @@ Consider the following representation:
         swap(arr[low], arr[high]),
         decrement high.
 
-0 0 0 0 1 1 1 1 ? ? ? ? ? 2 2
-        ^       ^       ^
-0       l       m       h   n
- 
-**For three groups of elements**, the steps would be similar, except:
+**For three groups of elements** (you can look at the picture representation [above](/img/_posts/three_elements.png)). The steps would be similar, except:
 
 * We have an extra pointer - mid to keep track of the ending position of the second element in the array,
 * The ungrouped elements are now present from mid to high,
