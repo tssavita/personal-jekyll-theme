@@ -30,7 +30,7 @@ Consider the following representation:
         swap(arr[low], arr[high]),
         decrement high.
 
-![above](https://github.com/tssavita/tssavita.github.io/img/_posts/three_elements.png)
+![above](https://github.com/tssavita/tssavita.github.io/blob/master/img/_posts/three_elements.png?raw=true)
 
 **For three groups of elements** (you can look at the picture representation above). The steps would be similar, except:
 
