@@ -24,7 +24,7 @@ Consider the following representation:
 * We consider that:
   * 0 to low are already elements of the first type, and, 
   * h to n-1 are already elements of the second type.
-  * elements from low to high are those whose type is unknown. They have not been grouped yet. 
+  * elements from low to high are those whose type is unknown. They have not been grouped yet.
 * While low <= high: 
   * if arr[low] == <first type> 
         increment low.
