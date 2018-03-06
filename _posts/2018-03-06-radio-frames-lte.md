@@ -14,7 +14,7 @@ There are two types of radio frames designed for the LTE:
 
 This frame structure is designed for Frequency Division Duplex. It is valid for both half duplex and full duplex modes. One typical LTE frame length duration is 10 ms. It consists of 20 equally sized slots of 0.5ms each. Each sub-frame has 2 slots. Thus 1 frame has 10 sub-frames. In full duplex mode, half of the sub-frames are available for downlink and the other half for uplink. 
 
-<p align=center>
+<p align="center">
     <img src="http://www.radio-electronics.com/images/type-1-lte-frame-structure.gif">
 </p>
 
