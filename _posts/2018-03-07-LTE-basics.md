@@ -10,13 +10,10 @@ In cellular networks, a limited resources needs to be shared with all users so t
 
 # Difference between TDD-LTE and FDD-LTE?
 
-LTE is defined to support the paired spectrum(that evolved from the migration path for 3G) for FDD as well as the unpaired spectrum(that evolved from TD-SCDMA) for TDD. The TD-LTE is cheaper than FD-LTE since there is no need for a diplexer to isolate the receptions. In TD-LTE its possible to change the uplink and downlink ratio to suit the needs of the use case. In the case of FD-LTE, capacity depends on frequency allocation that is carried out by regulatory authorities, and hence it is more difficult to make a dynamic change. 
+* LTE is defined to support the paired spectrum(that evolved from the migration path for 3G) for FDD as well as the unpaired spectrum(that evolved from TD-SCDMA) for TDD. 
+* The TD-LTE is cheaper than FD-LTE since there is no need for a diplexer to isolate the receptions. 
+* In TD-LTE its possible to change the uplink and downlink ratio to suit the needs of the use case. In the case of FD-LTE, capacity depends on frequency allocation that is carried out by regulatory authorities, and hence it is more difficult to make a dynamic change. 
 
-| TDD-LTE(TD-LTE) | FDD-LTE(FD-LTE) |
-| --------------- | --------------- |
-| TDD-LTE uses the unpaired spectrum(that evolved from TD-SCDMA) for TDD. | FDD-LTE uses the paired spectrum(that evolved from the migration path for 3G). | 
-| TDD-LTE is cheaper than FDD-LTE because there is no need for a diplexer to isolate receptions. | FDD-LTE requires a diplexer. |
-| In the TD-LTE it is possible to change the uplink and downlink ratio to suit the use cases. | In the case of FD-LTE, the capacity depends on frequency allocation is carried out by regulatory authorities, and hence it is more difficult to make a dynamic change. |
 
 # What is a radio frame? 
 
