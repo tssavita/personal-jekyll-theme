@@ -1,3 +1,9 @@
+layout: post
+section-type: post
+title: The Greedy Algorithm Paradigm
+category: Data Structures & Algorithms, Greedy Algorithmic Paradigm, Technical
+tags: [ 'greedy algorithms', ]
+
 # Greedy Algorithms
 
 Greedy algorithms are a paradigm a solution is built up piece by piece and at step, the most optimal subsolution is picked. Greedy algorithm solution is usually an optimization. It can be applied anywhere where the problem exhibits the following activity - At every step, there is the possibility to take the most optimal solution that then becomes the optimal solution for the entire problem. 
