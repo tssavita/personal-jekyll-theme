@@ -131,7 +131,7 @@ syntax-highlight: True
 ############
 
 events:
-    - image: "/img/timeline/ericsson.png"
+    - image: "/img/timeline/ericsson.jpg"
       date: "September 2017 - Present"
       description: "Open Source Developer at Ericsson, Aachen, Germany"
     - image: "/img/timeline/sap_logo.png"
