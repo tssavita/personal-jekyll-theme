@@ -131,9 +131,9 @@ syntax-highlight: True
 ############
 
 events:
-    - image: "/img/timeline/ericsson.png"
-      date: "September 2017 - Present"
-      description: "Open Source Developer at Ericsson, Aachen, Germany"
+    #    - image: "/img/timeline/ericsson.png"
+    # date: "September 2017 - Present"
+    # description: "Open Source Developer at Ericsson, Aachen, Germany"
     - image: "/img/timeline/sap_logo.png"
       date: "June 2016 - April 2017"
       description: "Master thesis student at SAP SE, Walldorf, Germany"
