@@ -114,13 +114,6 @@ paginate: 5
 email-share: True
 fb-share: True
 twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
 
 disqus-shortname: "panossakkos"
 
@@ -131,9 +124,12 @@ syntax-highlight: True
 ############
 
 events:
-    #    - image: "/img/timeline/ericsson.png"
-    # date: "September 2017 - Present"
-    # description: "Open Source Developer at Ericsson, Aachen, Germany"
+    - image: "/img/timeline/taxyio.png"
+      date: "May 2021 - Current"
+      description: "Senior DevOps Engineer"
+    - image: "/img/timeline/ericsson.png"
+      date: "September 2017 - April 2021"
+      description: "Open Source Developer"
     - image: "/img/timeline/sap_logo.png"
       date: "June 2016 - April 2017"
       description: "Master thesis student at SAP SE, Walldorf, Germany"
